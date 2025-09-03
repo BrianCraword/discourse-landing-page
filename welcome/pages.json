@@ -1,0 +1,9 @@
+{
+  "name": "Welcome to Victorious Christians",
+  "path": "/welcome",
+  "theme": null,
+  "groups": null,
+  "assets": [
+    "welcome/assets/css/styles.css"
+  ]
+}
