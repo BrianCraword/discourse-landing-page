@@ -1,7 +1,7 @@
 {
   "welcome": {
     "name": "Welcome to Victorious Christians",
-    "path": "/welcome",
+    "path": "welcome",
     "theme": null,
     "groups": null,
     "assets": [
